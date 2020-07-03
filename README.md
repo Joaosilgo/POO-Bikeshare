@@ -7,4 +7,4 @@
 
 
 
-![GitHub Logo](src/BikeShareJavafx/app.png)
+![GitHub Logo](src/BikeShareJavafx/app.PNG)
